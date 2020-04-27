@@ -1,6 +1,6 @@
 # AI-Manufacture
 
-Value from big data becomes real when your data-intensive AI, machine learning and analytics applications go into production. That can be challenging, but this non-technical but practical guide helps by showing you what has made others successful.
+Value from big data becomes real when your data-intensive AI, machine learning and analytics applications go into production. That can be challenging, but this non-technical but practical guide helps by showing what has made others successful.
 
 This project aims to develop Machine Learning in python covering Concept, Tools and Techniques in buliding an intelligent system.
 The goal is to proactively identify, assess, and eliminate logistics and supply chain risks in production departement.
