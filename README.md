@@ -7,8 +7,5 @@ The goal is to proactively identify, assess, and eliminate logistics and supply 
 
 Whether a company have data-driven applications in production, are about to deploy, or are just getting started, this might help.
 
-Intoduction from:
-
 AI and Analytics in Production
 How to Make It Work
-by Ted Dunning and Ellen Friedman © 2018. Published by O'Reilly.
